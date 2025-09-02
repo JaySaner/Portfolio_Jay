@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="text-center space-y-6">
           {/* Logo */}
           <div className="font-bold text-2xl bg-gradient-primary bg-clip-text text-transparent">
-            Jay Chhagan Saner
+            Jay Saner
           </div>
 
           {/* Tagline */}
@@ -24,7 +24,7 @@ const Footer = () => {
 
           {/* Copyright */}
           <div className="flex items-center justify-center space-x-2 text-sm text-muted-foreground">
-            <span>© {currentYear} Jay Chhagan Saner. Made with</span>
+            <span>© {currentYear} Jay Saner. Made with</span>
             <Heart size={16} className="text-red-500 animate-pulse" />
             <span>and lots of coffee.</span>
           </div>

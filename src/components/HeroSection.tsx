@@ -27,17 +27,17 @@ const HeroSection = () => {
           <div className="mb-8 flex justify-center">
             <div className="relative group">
               <div className="absolute -inset-1 bg-gradient-primary rounded-full blur opacity-75 group-hover:opacity-100 animate-glow-pulse"></div>
-              <img 
-                src={jayProfile} 
-                alt="Jay Chhagan Saner - Professional Profile" 
-                className="relative w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-primary/20 shadow-glow"
-              />
+          <img 
+            src={jayProfile} 
+            alt="Jay Saner - Professional Profile" 
+            className="relative w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-primary/20 shadow-glow"
+          />
             </div>
           </div>
 
           {/* Main Heading */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            <span className="block text-foreground">Jay Chhagan</span>
+            <span className="block text-foreground">Jay</span>
             <span className="block bg-gradient-primary bg-clip-text text-transparent">Saner</span>
           </h1>
 
