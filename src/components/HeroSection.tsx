@@ -37,8 +37,7 @@ const HeroSection = () => {
 
           {/* Main Heading */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            <span className="block text-foreground">Jay</span>
-            <span className="block bg-gradient-primary bg-clip-text text-transparent">Saner</span>
+            <span className="bg-gradient-primary bg-clip-text text-transparent">Jay Saner</span>
           </h1>
 
           {/* Title */}
